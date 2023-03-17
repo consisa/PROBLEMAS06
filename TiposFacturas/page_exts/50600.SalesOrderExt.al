@@ -1,4 +1,4 @@
-pageextension 50600 "C6 Sales Invoice Ext" extends "Sales Invoice"
+pageextension 50600 "C6 Sales Order Ext" extends "Sales Order"
 {
     layout
     {
